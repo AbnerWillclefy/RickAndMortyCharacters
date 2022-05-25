@@ -5,6 +5,6 @@ This project consumes the Rick and Morty API and make a list of characters cards
 
 ## Features:
 - Responsivity with MediaQueries and relative units.
-- Use of Fetch API.
+- Use of Fetch API to make an infinity scroll.
 - Text input to filter by char name.
 - Scroll to top page top button.
